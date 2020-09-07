@@ -21,7 +21,7 @@
         - Visual Studio 2019
         - Azure Data Studio
     💬 Ask me about ...
-        - Microsoft Azure
+        - Azure
         - .NET
         - Traefik
         - DevOps
