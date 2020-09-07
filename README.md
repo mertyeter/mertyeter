@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-    🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 - Azure
 - .NET
 - Docker
 - Kubernetes
 - Traefik
         
-    🌱 I’m currently learning ...
+🌱 I’m currently learning ...
 - Go
     
-    👯 I’m using ...
+👯 I’m using ...
 - Azure
 - C#
 - VB.NET
@@ -20,7 +20,8 @@
 - VS Code
 - Visual Studio 2019
 - Azure Data Studio
-    💬 Ask me about ...
+
+💬 Ask me about ...
 - Azure
 - .NET
 - Traefik
