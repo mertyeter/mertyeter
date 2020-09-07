@@ -8,7 +8,7 @@
         - Traefik
         
     🌱 I’m currently learning ...
-        Go
+        - Go
     
     👯 I’m using ...
        - Microsoft Azure
