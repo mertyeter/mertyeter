@@ -11,19 +11,19 @@
         - Go
     
     👯 I’m using ...
-       - Microsoft Azure
-       - C#
-       - VB.NET
-       - Git
-       - Github
-       - Azure Devops
-       - VS Code
-       - Visual Studio 2019
-       - Azure Data Studio
+        - Microsoft Azure
+        - C#
+        - VB.NET
+        - Git
+        - Github
+        - Azure Devops
+        - VS Code
+        - Visual Studio 2019
+        - Azure Data Studio
     💬 Ask me about ...
-       - Microsoft Azure
-       - .NET
-       - Traefik
-       - DevOps
+        - Microsoft Azure
+        - .NET
+        - Traefik
+        - DevOps
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mertyeter&show_icons=true&theme=dark" />
