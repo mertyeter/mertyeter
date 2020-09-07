@@ -11,7 +11,7 @@
         - Go
     
     👯 I’m using ...
-        - Microsoft Azure
+        - Azure
         - C#
         - VB.NET
         - Git
