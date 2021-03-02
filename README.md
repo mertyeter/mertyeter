@@ -3,12 +3,10 @@
 🔭 I’m currently working on ...
 - Azure
 - .NET
+- WSL2
 - Docker
 - Kubernetes
 - Traefik
-        
-🌱 I’m currently learning ...
-- Go
     
 👯 I’m using ...
 - Azure
