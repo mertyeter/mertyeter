@@ -3,20 +3,15 @@
 🔭 I’m currently working on ...
 - Azure
 - .NET
-- WSL2
-- Docker
-- Kubernetes
-- Traefik
     
 👯 I’m using ...
 - Azure
 - C#
-- VB.NET
 - Git
-- Github
+- GitHub
 - Azure Devops
 - VS Code
-- Visual Studio 2019
+- Visual Studio 2022
 - Azure Data Studio
 
 💬 Ask me about ...
