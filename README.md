@@ -2,23 +2,10 @@
 
 🔭 I’m currently working on ...
 - Azure
-- .NET
-    
-👯 I’m using ...
-- Azure
-- C#
-- Git
+- AI
+- Azure DevOps
 - GitHub
-- Azure Devops
-- VS Code
-- Visual Studio 2022
-- Azure Data Studio
-
-💬 Ask me about ...
-- Azure
-- .NET
-- Traefik
-- DevOps
+- DevSecOps
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mertyeter&show_icons=true&theme=dark" />
 
