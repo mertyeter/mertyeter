@@ -38,10 +38,3 @@ I'm passionate about building secure, scalable cloud solutions on Azure, bridgin
 ## 📊 GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mertyeter&show_icons=true&theme=dark&hide_border=true" />
-
----
-
-## 🌐 Connect
-
-<a href="https://x.com/m3rtyeter"><img src="img/x-white.svg" alt="X" height="24"></a>
-<a href="https://www.linkedin.com/in/mertyeter/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="24"></a>
